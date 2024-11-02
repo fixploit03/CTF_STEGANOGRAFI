@@ -35,7 +35,7 @@
    crunch 4 4 0123456789 > wordlist.txt
    ```
 
-5. **Jalankan CrackStego**:  
+5. **Temukan Flag**:  
    Eksekusi CrackStego dan ikuti instruksi yang muncul untuk menemukan flag yang tersembunyi dalam file gambar [maung.jpg](https://github.com/fixploit03/CTF_STEGANOGRAFI/blob/main/maung.jpg).
 
 6. **Unggah Flag**:  
