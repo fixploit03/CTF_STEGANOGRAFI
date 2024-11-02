@@ -1,11 +1,13 @@
 # CTF Steganografi
 
+![](https://github.com/fixploit03/CTF_STEGANOGRAFI/blob/main/maung.jpg)
+
 > Repo ini untuk belajar steganografi.
 
 ## Instruksi
 
 1. **Unduh gambar**:  
-   Unduh gambar [maung.jpg]().
+   Unduh gambar [maung.jpg](https://github.com/fixploit03/CTF_STEGANOGRAFI/blob/main/maung.jpg).
 
 2. **Instal alat yang diperlukan**:  
    Pastikan Anda memiliki alat berikut di sistem Anda:
