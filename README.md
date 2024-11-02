@@ -2,7 +2,7 @@
 
 ![](https://github.com/fixploit03/CTF_STEGANOGRAFI/blob/main/maung.jpg)
 
-> Repositori ini ditujukan untuk belajar steganografi.
+> Repositori ini bertujuan untuk belajar steganografi.
 
 ## Instruksi untuk menyelesaikan CTF
 
@@ -11,13 +11,13 @@
    git clone https://github.com/fixploit03/CTF_STEGANOGRAFI/
    ```
 
-2. **Pindah ke folder CTF_STEGANOGRAFI**:
+2. **Masuk ke folder CTF_STEGANOGRAFI**:
    ```bash
    cd CTF_STEGANOGRAFI
    ```
 
 3. **Instal alat yang diperlukan**:  
-   Pastikan Anda memiliki alat berikut di sistem Anda:
+   Pastikan Anda telah menginstal alat berikut di sistem Anda:
    - **Steghide**:  
      ```bash
      sudo apt-get install steghide
@@ -27,7 +27,7 @@
      sudo apt-get install crunch
      ```
    - **CrackStego**:  
-     Instal dari [sini](https://github.com/fixploit03/CrackStego).
+     Instal dari [tautan ini](https://github.com/fixploit03/CrackStego).
 
 4. **Buat wordlist**:  
    Gunakan Crunch untuk membuat wordlist:  
@@ -36,9 +36,9 @@
    ```
 
 5. **Temukan Flag**:  
-   Eksekusi CrackStego dan ikuti instruksi yang muncul untuk menemukan flag yang tersembunyi dalam file gambar [maung.jpg](https://github.com/fixploit03/CTF_STEGANOGRAFI/blob/main/maung.jpg).
+   Jalankan CrackStego dan ikuti instruksi yang muncul untuk menemukan Flag yang tersembunyi dalam file gambar [maung.jpg](https://github.com/fixploit03/CTF_STEGANOGRAFI/blob/main/maung.jpg).
 
 6. **Unggah Flag**:  
-   Jika flag ditemukan, silakan fork repositori ini dan unggah file flag yang berhasil ditemukan ke dalam folder `flag` dengan format `flag_[username_github].txt`.
+   Jika Flag ditemukan, silakan fork repositori ini dan unggah file Flag yang berhasil ditemukan ke dalam folder `flag` dengan format `flag_[username_github].txt`.
 
-**Selamat Mencoba!**
+**Selamat mencoba!**
