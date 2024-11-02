@@ -2,8 +2,6 @@
 
 > Repo ini untuk belajar steganografi.
 
-## Deskripsi
-
 ## Instruksi
 
 1. **Unduh gambar**:  
