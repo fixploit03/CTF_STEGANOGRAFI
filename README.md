@@ -5,7 +5,7 @@
 ## Instruksi
 
 1. **Unduh gambar**:  
-   Unduh gambar [maung.jpg]() dan simpan di direktori proyek Anda.
+   Unduh gambar [maung.jpg]().
 
 2. **Instal alat yang diperlukan**:  
    Pastikan Anda memiliki alat berikut di sistem Anda:
