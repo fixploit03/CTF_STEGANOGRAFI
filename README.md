@@ -30,6 +30,6 @@
     Eksekusi CrackStego dan ikuti instruksi yang muncul.
 
 5. **Upload Flag**:
-    Jika flag ditemukan, silakan fork repo ini dan unggah file flag yang berhasil ditemukan dengan format `flag_[username_github].txt`.
+    Jika flag ditemukan, silakan fork repo ini dan unggah file flag yang berhasil ditemukan ke dalam folder flag dengan format `flag_[username_github].txt`.
 
 **Selamat Mencoba**
