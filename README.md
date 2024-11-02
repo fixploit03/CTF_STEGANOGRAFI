@@ -4,7 +4,7 @@
 
 > Repo ini untuk belajar steganografi.
 
-## Instruksi
+## Instruksi menyelesaikan CTF
 
 1. **Kloning repo CTF_STEGANOGRAFI**:
    ```
