@@ -39,6 +39,6 @@
    Jalankan CrackStego dan ikuti instruksi yang muncul untuk menemukan Flag yang tersembunyi dalam file gambar [maung.jpg](https://github.com/fixploit03/CTF_STEGANOGRAFI/blob/main/maung.jpg).
 
 6. **Unggah Flag**:  
-   Jika flag ditemukan, silakan fork repositori ini dan unggah file flag yang berhasil ditemukan ke dalam folder `flag` dengan format `flag_[username_github].txt`, lalu buat pull request.
+   Jika flag ditemukan, silakan [fork](https://github.com/fixploit03/CTF_STEGANOGRAFI/forks) repositori ini dan unggah file flag yang berhasil ditemukan ke dalam folder `flag` dengan format `flag_[username_github].txt`, lalu buat pull request.
 
 **Selamat mencoba!**
